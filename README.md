@@ -3,7 +3,7 @@
 Este projeto provisiona uma infraestrutura completa na AWS utilizando **Terraform** para executar o **Jupyter Notebook** em um contêiner ECS com **Fargate**.
 
 ---
-Claro! O **AWS Fargate** é um mecanismo de computação **serverless** para **containers**, que funciona com o **Amazon ECS** (Elastic Container Service) e o **Amazon EKS** (Elastic Kubernetes Service). Ele permite que você execute containers **sem precisar provisionar, configurar ou gerenciar servidores ou clusters**.
+O **AWS Fargate** é um mecanismo de computação **serverless** para **containers**, que funciona com o **Amazon ECS** (Elastic Container Service) e o **Amazon EKS** (Elastic Kubernetes Service). Ele permite que você execute containers **sem precisar provisionar, configurar ou gerenciar servidores ou clusters**.
 
 ---
 
